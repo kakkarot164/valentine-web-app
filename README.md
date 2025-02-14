@@ -1,6 +1,6 @@
 # Valentine Web App ❤️
 
-A simple and beautiful Valentine's Day web app built using HTML, CSS, Tailwind CSS, and Bootstrap.
+A simple and beautiful Valentine's Day web app built using HTML, CSS and Bootstrap.
 
 ---
 
@@ -15,7 +15,6 @@ This web app is designed to add a little joy to Valentine's Day with interactive
 ## 🛠️ **Technologies Used**
 - **HTML5**
 - **CSS3**
-- **Tailwind CSS**
 - **Bootstrap 5**
 - **JavaScript**
 
@@ -28,7 +27,6 @@ valentine-web-app/
 │── post-login.html     # Post-login page
 │── acceptance.html     # Acceptance page
 │── style.css           # Custom styles
-│── tailwind.css        # Tailwind CSS
 │── assets/             # Images and videos
 │    ├── Valentine_BG.jpg   # Background image
 │    ├── teddy.png          # Teddy bear image
