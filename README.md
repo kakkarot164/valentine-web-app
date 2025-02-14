@@ -65,11 +65,17 @@ valentine-web-app/
 ---
 
 ## 📸 **Screenshots**
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
----
+### Login Page
+![Login Page](assets/screenshot1.png)
+
+### Post-Login Page
+![Post-Login Page](assets/screenshot2.png)
+
+### Acceptance Page
+![Acceptance Page](assets/screenshot3.png)
+
+### Acceptance Page
+![Acceptance Page](assets/screenshot4.png)
 
 ## 📄 **License**
 Personal project 
