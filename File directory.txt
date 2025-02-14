@@ -1,0 +1,16 @@
+valentine-web-app/
+│── index.html          
+│── post-login.html     
+│── style.css           
+│── tailwind.css        
+│── assets/             
+│    ├── Valentine_BG.jpg
+│    ├── teddy.png
+│    ├── envelope.gif
+│── js/                 
+│    ├── script.js      
+│    ├── post-login.js  
+│── README.md
+
+
+
