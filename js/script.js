@@ -5,7 +5,7 @@ document.getElementById('loginForm')?.addEventListener('submit', function(e) {
     const email = document.getElementById('email').value;
     const password = document.getElementById('password').value;
   
-    if (email === 'dipalip987@gmail.com' && password === 'Dipalisarkar@324') {
+    if (email === 'valentine14@gmail.com' && password === 'Valentine@2025') {
       window.location.href = 'post-login.html';
     } else {
       alert('Invalid login. Please try again!');
